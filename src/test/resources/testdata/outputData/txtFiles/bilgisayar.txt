@@ -1,0 +1,15 @@
+Title: HP ProOne 440 G6 1C7B6EA Masaüstü (Desktop) Bilgisayar
+Explanation: Hp Proone 440 G6 1C7B6EA i5-10500T 8GB 256SSD 23.8" FullHD W10P All In One Bilgisayar
+Price: 18.724,00 TL
+Title: Turbox ATM9918021 Masaüstü (Desktop) Bilgisayar
+Explanation: Turbox Tx514 i3 3220 4GB Ram 120GB SSD Ofis Bilgisayarı
+Price: 2.296,90 TL
+Title: CRV30 i3-4160 16GB RAM 128GB SSD 23.6"Curved Masaüstü Bilgisayar
+Explanation: 23.6 FHD KAVİSLİ MONİTÖRLÜ,İ3 4.GEN İŞLEMCİLİ,16GB RAMLİ FULL SET OFİS-EV PC, KURUMSALA UYGUN
+Price: 5.449,00 TL
+Title: Lenovo V50a 11FK005RTX Masaüstü (Desktop) Bilgisayar
+Explanation: Lenovo V50A 11FK005RTX i7-10700T 16GB 1TB+256SSD Radeon625 23.8" FullHD FreeDOS All In One Bilgisaya
+Price: 22.199,00 TL
+Title: HP 200 G4 205R1ES Masaüstü (Desktop) Bilgisayar
+Explanation: HP 205R1ES 200 G4 i5-10210U 8GB 256GB 21.5" Free Dos AIO Bilgisayar
+Price: 13.489,50 TL
